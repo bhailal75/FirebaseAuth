@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017515710829",
+    "firebase_url": "https://myfirebaseauth-fc069.firebaseio.com",
+    "project_id": "myfirebaseauth-fc069",
+    "storage_bucket": "myfirebaseauth-fc069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017515710829:android:4a066fe3e4cdcfcb",
+        "android_client_info": {
+          "package_name": "com.jhon.sparken02.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017515710829-vm4jg84qfrgcv3c1toigg0q7kuvkemes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhon.sparken02.firebaseauth",
+            "certificate_hash": "ced5f5dd410bcbbbf7de4c7d2740f490782cf40f"
+          }
+        },
+        {
+          "client_id": "1017515710829-t3moa92hs04pukjmtnflnld0n6qrsnb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaMvmXZqDiwfQxZzYY-e7cVYYOuP9FsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017515710829-t3moa92hs04pukjmtnflnld0n6qrsnb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
